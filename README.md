@@ -8,7 +8,7 @@ https://sandbox.zbozi.cz/
 
 # Configuration
 
-![GTM template for Zbozi.cz](https://github.com:House-of-Rezac/zbozicz/blob/master/zbozi-preview.png?raw=true)
+![GTM template for Zbozi.cz](https://github.com/House-of-Rezac/zbozicz/blob/master/zbozi-preview.png)
 
 ## Params
 * ID - shop ID available in zbozi.cz administration
