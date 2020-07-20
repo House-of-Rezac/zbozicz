@@ -1,5 +1,5 @@
 homepage: "https://www.houseofrezac.com"
 documentation: "https://github.com:House-of-Rezac/zbozicz.git"
 versions:
-  - sha: 3a6976f741c008f789221b3563c047765baae957
+  - sha: ffb893779e7f33454762656215f28e5eb6247b67
     changeNotes: Initial release.
