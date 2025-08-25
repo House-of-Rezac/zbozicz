@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED
+
+This repository is deprecated and no longer maintained. 
+
+**Alternative:** Please use official package instead.
+
 # GTM template for Zbozi.cz code
 Documentation is available on
 @see https://github.com/seznam/zbozi-konverze
